@@ -21,7 +21,7 @@ Atualmente, foco em construir a ponte entre dados brutos e decisões estratégic
 - **Linguagens:** SQL, Python, R.
 - **Big Data & ETL:** Apache Spark, Kafka, dbt, Migração de Dados.
 - **Visualização:** Power BI, Streamlit, RShiny.
-- **Infra & DevOps:** Docker, AWS (S3, EC2), Git.
+- **Infra & DevOps:** Docker, AWS, Git.
 - **Bancos de Dados:** SQL Server, PostgreSQL, Oracle, Cassandra.
 
 ---
@@ -30,12 +30,6 @@ Atualmente, foco em construir a ponte entre dados brutos e decisões estratégic
 - **Pós-graduação:** Engenharia de Dados: Big Data (Em andamento).
 - **Graduação:** Tecnologia em Banco de Dados.
 - **Certificações:** Formação Analista de Dados (Python, Power BI, SQL), PostgreSQL Avançado.
-
----
-
-### 📊 Estatísticas do GitHub:
-![Status do GitHub de Fernando](https://github-readme-stats.vercel.app/api?username=VieiraNando96&show_icons=true&theme=radial)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraNando96&layout=compact&theme=radial)
 
 ---
 
