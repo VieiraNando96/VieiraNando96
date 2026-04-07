@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou Fernando 👋
 
-<!--
-**VieiraNando96/VieiraNando96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Especialista em Analytics Engineering | Soluções de Dados & IA
 
-Here are some ideas to get you started:
+Sou um profissional com mais de 8 anos de experiência no ecossistema de dados. Minha trajetória evoluiu do suporte técnico especializado para a criação de arquiteturas de dados modernas, onde uno o poder do **SQL** com a flexibilidade do **Python** e o potencial da **IA Generativa**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, foco em construir a ponte entre dados brutos e decisões estratégicas, desenvolvendo ferramentas que automatizam processos e geram insights inteligentes em tempo real.
+
+---
+
+### 🛠️ No que eu trabalho hoje:
+- **Data Apps:** Desenvolvimento de dashboards interativos e ferramentas de decisão utilizando **Streamlit** e **RShiny**.
+- **Engenharia de Dados:** Pipelines de integração e transformação de dados com **PySpark**, **SQL Server**, **Oracle** e **PostgreSQL**.
+- **IA Generativa:** Implementação de soluções utilizando a API da **OpenAI** para análise de documentos e extração de insights.
+- **Arquitetura & Cloud:** Migração de aplicações para arquitetura **Docker** em ambiente **AWS**.
+- **Automação:** Scripts de RPA e web scraping utilizando **Python (Playwright)**.
+
+---
+
+### 🚀 Tecnologias e Ferramentas:
+- **Linguagens:** SQL, Python, R.
+- **Big Data & ETL:** Apache Spark, Kafka, dbt, Migração de Dados.
+- **Visualização:** Power BI, Streamlit, RShiny.
+- **Infra & DevOps:** Docker, AWS (S3, EC2), Git.
+- **Bancos de Dados:** SQL Server, PostgreSQL, Oracle, Cassandra.
+
+---
+
+### 🎓 Formação & Evolução:
+- **Pós-graduação:** Engenharia de Dados: Big Data (Em andamento).
+- **Graduação:** Tecnologia em Banco de Dados.
+- **Certificações:** Formação Analista de Dados (Python, Power BI, SQL), PostgreSQL Avançado.
+
+---
+
+### 📊 Estatísticas do GitHub:
+![Status do GitHub de Fernando](https://github-readme-stats.vercel.app/api?username=VieiraNando96&show_icons=true&theme=radial)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraNando96&layout=compact&theme=radial)
+
+---
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [Fernando Vieira](https://linkedin.com/in/seu-perfil)
+- **Email:** fernandovdefarias@gmail.com
