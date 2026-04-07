@@ -18,7 +18,7 @@ Atualmente, foco em construir a ponte entre dados brutos e decisões estratégic
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </div>
 
-#### 🗄️ Databases (Relational & NoSQL)
+#### 🗄️ Databases (Relacional & NoSQL)
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
